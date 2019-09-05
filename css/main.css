@@ -1,0 +1,55 @@
+header {
+
+ background: #0404;
+ padding: 25px;
+ text-align: center;
+ font-size: 15pt; 
+}
+
+h2 {
+    font-size: 16pt;
+    background: #0003;
+
+}
+
+table {
+    font-size: 12pt;
+    color: brown;
+    text-align: center;
+    border:1px solid black;
+    
+
+}
+
+thead {
+    color: black;
+    font-size: 18pt;
+}
+
+body {
+
+    text-align: justify;
+
+}
+
+section {
+    font-size: 14pt;
+    margin: 2px;
+    width: 100%;
+    border: 1px solid lightblue;
+    padding: 20pt;
+}
+
+h2 {
+    color:blue;
+    text-align: center
+}
+
+
+    td {border :2px solid black  ;
+}
+
+img {
+    height: 100pt;
+    width: 100pt;
+}
